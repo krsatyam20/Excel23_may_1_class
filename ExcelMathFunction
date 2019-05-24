@@ -1,0 +1,46 @@
+maths functions
+
+sum
+                =SUM(E2:E22)
+max
+                =MAX(E2:E22)
+min
+                =MIN(E2:E22)
+avg
+                =AVERAGE(E2:E22)
+                
+small
+                =SMALL(E2:E22,10)
+large
+                =LARGE(E2:E22,4)
+
+sumif
+                =SUMIF(C2:C22,I11,E2:E22)
+
+
+sumifs
+
+                =SUMIFS(E2:E22,C2:C22,I15,D2:D22,J15)
+
+
+countif
+                =COUNTIF(C2:C22,I20)
+
+countifs
+                =COUNTIFS(C2:C22,I23,D2:D22,J23)
+
+
+
+round
+                =ROUND(F27,2)
+roundup
+                =ROUNDUP(F27,3)
+roundwon
+                =ROUNDDOWN(F27,3)
+sqrt
+                =SQRT(F27)
+pow
+                =POWER(2,4)
+
+mod
+                =MOD(10,2)       
